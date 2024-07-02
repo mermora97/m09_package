@@ -8,7 +8,7 @@ setup(
     author_email='eqa7yg@virginia.edu',
     description='Description of my package',
     license='MIT',
-    packages = ['my_package','booklover'],
+    packages = ['booklover'],
     install_requires = [
         "pandas",
     ],
