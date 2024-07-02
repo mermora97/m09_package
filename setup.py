@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='My Package',
+    name='booklover package',
     version='1.0.0',
     url='https://github.com/mermora97',
     author='Mercedes Mora-Figueroa',
